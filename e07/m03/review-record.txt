@@ -1,0 +1,9 @@
+E07-M03 frame candidate review, 2026-11-25
+Status: candidate only, awaiting user acceptance. Not uploaded; spreadsheet not marked completed.
+Start: E07-M03_start_candidate_v01_720x1280.png. Squirrel feet planted on entrance ledge, patagia extended, companions observe.
+End: E07-M03_end_candidate_v01_720x1280.png. Squirrel safely standing at same entrance ledge, patagia folded, turned to companions asking for help; cat listens with reassuring gesture.
+Both generated with built-in imagegen from accepted M01 end v02 and actual official C01/C02 v04 plus C06 v03 turnarounds; normalized to720x1280 with sips.
+Visual checks: exactly3 characters; low domed broad-brim purple cat explorer hat with gold edging, crown star, blue goggles and white cloud-wings; squirrel mint helmet/gold-blue goggles/mint scarf/brown vest/backpack/fluffy tail; bird small purple cap/yellow crest/blue scarf/purple cape. Same broad canyon scenery and fixed landmark arrangement in both frames. P04 remains distant glint; nobody holds it; no injuries, extra wings or new characters.
+Static frames establish action endpoints only. One takeoff, one gust-driven return and one safe landing must be checked in future video, which has not been generated. Exact3D geometry and current motion cannot be verified from still images.
+Seedance v03 text preserved in Seedance_v03.txt. Full actual start/end generation prompts are saved beside this record.
+Earlier M02 end and P04 shape candidates remain unapproved. User saying next step was treated as continuing production, not acceptance of those candidates.

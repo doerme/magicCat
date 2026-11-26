@@ -1,0 +1,44 @@
+[
+  {
+    "shot": "E06-M01",
+    "version": "v01",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M01_raw_candidate_v01.mp4",
+    "url": "https://drive.google.com/file/d/1Iq_hp-_5CYVG0K1DwUlfwcJ0-dyTXfl6/view?usp=drivesdk",
+    "status": "待审核"
+  },
+  {
+    "shot": "E06-M02",
+    "version": "v01",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M02_raw_candidate_v01.mp4",
+    "url": "https://drive.google.com/file/d/1geqZ3KAOwfAlmPPSUk1VPIZjQ5ZrOnzP/view?usp=drivesdk",
+    "status": "待审核"
+  },
+  {
+    "shot": "E06-M03",
+    "version": "v01",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M03_raw_candidate_v01.mp4",
+    "url": "https://drive.google.com/file/d/1UMpd593AbgUqht7xRsj2KlJmgOZRXIxD/view?usp=drivesdk",
+    "status": "待审核"
+  },
+  {
+    "shot": "E06-M04",
+    "version": "v02",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M04_raw_candidate_v02.mp4",
+    "url": "https://drive.google.com/file/d/1WOOjPj_WcBL6nHDgQBLzoJDh8UxKC3fA/view?usp=drivesdk",
+    "status": "待审核"
+  },
+  {
+    "shot": "E06-M05",
+    "version": "v02",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M05_raw_candidate_v02.mp4",
+    "url": "https://drive.google.com/file/d/164p2dpdwKhr_mmhvgskQsaqQgfqD5fqT/view?usp=drivesdk",
+    "status": "待审核"
+  },
+  {
+    "shot": "E06-M06",
+    "version": "v01",
+    "path": "/Users/liangxiaoming/Documents/mc/e06/video/E06-M06_raw_candidate_v01.mp4",
+    "url": "https://drive.google.com/file/d/1TuAFRSqEhHbWAb7AVj5wyd0rCJ9nBt-O/view?usp=drivesdk",
+    "status": "待审核"
+  }
+]

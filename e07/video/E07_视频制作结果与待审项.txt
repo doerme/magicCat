@@ -1,0 +1,19 @@
+E07《风暴深谷》视频制作结果
+已在用户指定如流模型体验台生成六镜头，均使用中文提示词、首尾帧模式、Seedance 2.0、9:16、720p、5秒。
+当前候选版本：M01 v01、M02 v01、M03 v02、M04 v01、M05 v02、M06 v01。
+原始视频均720×1280、约5.06—5.09秒，均含音频轨。已抽查0、1、2、3、4、4.95秒。
+M03 v01额外黄色飞行物、镜头过近：保留为需返工；v02固定全景，抽查未再见该额外物体，待审核。
+M05 v01明显青色光束拖尾：保留为需返工；v02强化普通扇翅、角色周围不发光，抽查原明显拖尾已消失，待审核。
+全片预览：E07_整集串联审片_候选_v02.mp4，720×1280、24帧/秒、30.00秒、含音轨；每镜取5秒，统一时间轴和采样率，完整解码无报错。
+首个无损拼接尝试因音轨时间戳不连续未采用；当前v02经过时间轴规范化重编码。各原始MP4保留，不覆盖。
+重要待审项：对白文本、音色、口型未核验；抽查不能代替完整播放核验动作次数、风向、晶石状态与连续性。全部当前视频及整集预览均待审核，不是已验收成片。
+在线表格：六镜头Q列为当前原始MP4，素材版本第160—168行记录原始候选/返工/审片预览；剧集管理J8为审片链接，正式成片栏仍为空。
+审片预览Drive：https://drive.google.com/file/d/1_Q6NzMvBgb635dq9WiYsUx_Nr8Ud-59Q/view?usp=drivesdk
+
+M01：https://drive.google.com/file/d/1tZmtO47oKdXtT95ZN2e0cJcKjqo8o5zm/view?usp=drivesdk
+M02：https://drive.google.com/file/d/1VltMtQBXA_fkE1eJDtj-vD8pKbwaWAw7/view?usp=drivesdk
+M03：https://drive.google.com/file/d/1NFi1Jo2dVtkhr_6PUgjY13lpG7qGgDbL/view?usp=drivesdk
+M04：https://drive.google.com/file/d/1rwoDjV8M4r84vfeZWyFED8ibZ7T3dIww/view?usp=drivesdk
+M05：https://drive.google.com/file/d/1nuEjBAqSeVs4d0NCpee6feEUuogJaxQo/view?usp=drivesdk
+M06：https://drive.google.com/file/d/1441v1DjTlpg2DP_QrJGlXKMVNIz_AnuT/view?usp=drivesdk
+

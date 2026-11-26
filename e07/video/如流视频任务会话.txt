@@ -1,0 +1,9 @@
+如流 Seedance 2.0 视频任务，均为首尾帧、9:16、720p、5秒，中文提示词。
+视频均为原始候选，未正式验收，不能直接标记成片完成。
+M01：https://aichat.infoflow.baidu.com/emira/c/chat-box-2be31b7b6fcc41839cd8210?hi_type=system
+M02：https://aichat.infoflow.baidu.com/emira/c/chat-box-54d4c23e168247e4895a61c?hi_type=system
+M03：https://aichat.infoflow.baidu.com/emira/c/chat-box-c44601d7249c48a1b3fd721?hi_type=system
+M04：https://aichat.infoflow.baidu.com/emira/c/chat-box-fbd663b41ff140f7b3006ea?hi_type=system
+M05：https://aichat.infoflow.baidu.com/emira/c/chat-box-9648c9ad366e4d178aab5ad?hi_type=system
+M06：https://aichat.infoflow.baidu.com/emira/c/chat-box-df75cacb90a04a98804745c?hi_type=system
+每个会话保留本次实际完整中文输入、首尾帧附件和生成结果。

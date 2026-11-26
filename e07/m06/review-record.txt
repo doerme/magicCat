@@ -1,0 +1,12 @@
+E07-M06 candidate packet — 2026-11-25
+Status: uploaded and synced for review; NOT accepted, NOT completed video.
+Start: E07-M06_start_candidate_v01_reuse_720x1280.png (exact byte copy M05 endv02).
+SHA256 start:1d9bbaa042af7437bcd335fdbd0252f898de4dbf39353ab68adc9133292273ef.
+End: E07-M06_end_candidate_v01_720x1280.png.
+Both independent PNG720x1280; built-in imagegen for edits, sips final sizing. Actual prompts and Seedance_v03 saved alongside.
+Checks: one bird grounded with both feet; original small purple cap, blue/gold goggles, crest, white cloud wings, blue scarf, purple cloud cape/badge/sidebag; two natural feather wings support one P04; no duplicate crystal on stone, no additional character, no transformation or magic wings; only soft cyan light and tiny wisps.
+Static endpoints do not prove exactly one landing/pickup or continuous terrain in video. Video has not been generated. P04 shape and upstream M02-M05 remain candidates.
+Online shot O7/P7 links synced, T7=待审核; original Seedance v03 preserved. 素材版本 rows158-159 pending. Connector readback passed; browser visual layout not reverified.
+Start Drive: https://drive.google.com/file/d/1sGv-klYzDCTXfvA03mBMA-Y18bG6RJFW/view?usp=drivesdk
+End Drive: https://drive.google.com/file/d/1ku8I28mplmOzwMXdVkZaUxi7zBZZg7GU/view?usp=drivesdk
+

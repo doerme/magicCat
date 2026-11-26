@@ -1,0 +1,14 @@
+E07-M02 and P04 review packet — 2026-11-25
+STATUS: Awaiting user acceptance. Not uploaded; not marked complete.
+Start frame: exact byte copy of accepted E07-M01 end v02.
+SHA256 of both start and previous end: 5dab801017684846affea1734d7730729447d1645d31cfb144be62f75f60e4a2.
+Start: E07-M02_start_v01_reuse_720x1280.png, 720x1280.
+End candidate: E07-M02_end_candidate_v01_720x1280.png, 720x1280.
+P04 shape candidate: P04_reference_candidate_v02_720x1280.png, 720x1280.
+Built-in imagegen generated P04 and edited the end-frame view. sips normalized final size.
+References: live E07-M02 Seedance v03; approved M01 end v02; S07 v04; approved E06-M05 mural v03. P03 v01 was inspected but not used as P04 shape authority (its outer diamond shape is the large core).
+P04 had no standalone Drive asset or linked reference at execution. New candidate follows the small feather silhouette from approved mural.
+Visual checks: one feather-shaped translucent cyan crystal; broad stable mossy cracked rock platform; no characters at valley bottom; no interaction/pickup; no altar, magic circles, captions, extra crystals. Cool canyon with warm right light and natural turquoise current ribbons.
+Static image continuity is an artistic correspondence; exact 3D terrain positions and current movement direction cannot be proven from these stills. Video has not been generated.
+P04 candidate is only a single view; full orthographic front/side/back and P03 insertion-state references remain unproduced.
+Prompt sources: P04-generation-prompt.txt, end-generation-prompt.txt, end-outpaint-prompt.txt. Original Seedance v03 saved separately.

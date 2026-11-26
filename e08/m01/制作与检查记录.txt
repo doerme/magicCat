@@ -1,0 +1,12 @@
+E08-M01《暂借的风》
+首帧：直接提取E07-M06原始视频候选v01最后一帧，720×1280 PNG，不重新生成。
+来源：https://drive.google.com/file/d/1441v1DjTlpg2DP_QrJGlXKMVNIz_AnuT/view?usp=drivesdk
+注意：来源视频E07-M06仍待审核，E08首帧因此也为候选。
+尾帧v01：三人入口会合、唯一P04持于鸟双翅，但鸟与飞鼠相对猫偏高，保留为本地需返工记录。
+尾帧v02：已局部缩小鸟与飞鼠，改善100:75:50比例关系；720×1280独立PNG，已上传Drive并同步E08分集表、总镜头表及素材版本第184行，状态待审核。
+动作纠正：双翅捧晶石时不扇翅，改由P04暂借的柔和气流被动托回入口。不展示正式C03觉醒。
+原始视频候选v01已提交如流Seedance 2.0，5秒，9:16，720p。
+生成会话：https://aichat.infoflow.baidu.com/emira/c/chat-box-459e2bcd827b40e3afd9c75?hi_type=system
+v01脚下光柱需返工，保留在线版本记录。
+v02已生成、上传并回写分集表和总镜头表。2026-11-26：原始MP4候选v02生成并上传，720×1280，24帧/秒，约5.09秒，含AAC立体声音轨，完整解码通过。十点抽帧未见v01脚下光柱，啾啾持续双翅捧唯一P04，返回入口在伙伴之间落地。对白内容与口型待核验，视频待审核。
+Drive：https://drive.google.com/file/d/14K8O46hgkEtFO6_1XdpN1iTzB-vEENjo/view?usp=drivesdk

@@ -1,0 +1,6 @@
+M01 重提交：https://aichat.infoflow.baidu.com/emira/c/chat-box-2b0371b519474a64bb974bc?hi_type=system
+M04 v02：https://aichat.infoflow.baidu.com/emira/c/chat-box-c7c7873465124d2799c5854?hi_type=system
+M05 v02：https://aichat.infoflow.baidu.com/emira/c/chat-box-4bbb9f2b19c047afb412adf?hi_type=system
+M06 v01：已提交；正式chat-box地址待返回后记录。
+P06 用户已验收通过v05，在线道具资产已更新。
+视频文件均为候选，M04 v01需返工，四个已下载原始MP4完整解码均通过。

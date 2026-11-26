@@ -1,0 +1,14 @@
+E07-M01 frame acceptance record — 2026-11-25
+User explicitly approved both displayed frames: 通过，上传并回写.
+Both deliverables: independent PNG, verified 720 x 1280.
+Generated/edited with built-in imagegen; final size normalized with sips without cropping characters.
+Official references downloaded from Drive into references/: C01-C02 v04, C06 v03, S07 v04.
+Approved local files:
+E07-M01_start_v02_approved_720x1280.png
+E07-M01_end_v02_approved_720x1280.png
+Drive start: https://drive.google.com/file/d/1xsfCjy_Uki80mgmIlLlieane8JUvMSqp/view
+Drive end: https://drive.google.com/file/d/1wXFDruqnTDUwDoYBvwGQqvirOGSQvc5y/view
+Sheet E07-镜头管理 O2/P2 points to approved v02. Shot remains 制作中: video not created.
+素材版本 rows147–148 are approved frame records. Row146 remains old unapproved candidate.
+Seedance prompt v03 preserved. P06 unchanged; its live asset row currently says 待制作 (user handoff says 待验收); neither treated as completed.
+Prompt files are stored beside these images: generation-prompts.txt, start-portrait-prompt.txt, outpaint-prompt.txt, end-prompt.txt.

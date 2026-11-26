@@ -1,0 +1,6 @@
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M01_raw_candidate_v01.mp4'
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M02_raw_candidate_v01.mp4'
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M03_raw_candidate_v02.mp4'
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M04_raw_candidate_v01.mp4'
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M05_raw_candidate_v02.mp4'
+file '/Users/liangxiaoming/Documents/mc/e07/video/E07-M06_raw_candidate_v01.mp4'

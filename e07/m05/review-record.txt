@@ -1,0 +1,11 @@
+E07-M05 candidate packet — 2026-11-25
+Status: awaiting user acceptance. Not uploaded and not marked formally completed.
+Start: E07-M05_start_candidate_v01_reuse_720x1280.png, exact byte copy of M04 end candidate v02.
+SHA256 start and M04 end:5cada7f2a49a56474c29213f79c91b0cab0ccb36c3b19ed82b14e203d0376cf6.
+End: E07-M05_end_candidate_v02_720x1280.png. One golden bird visibly hovering above front-left of same deepest platform, feet separated from stone by a clear air gap. No landing, pickup or contact with crystal.
+Exactly1 turquoise feather-shaped P04 stays centered on platform stone, same P04 candidate and M02 valley-platform candidate. Cat and squirrel remain at distant entrance, outside this valley framing, never teleported onto platform.
+Bird visual checks: small purple cloud-wing cap, yellow crest, twin blue/gold goggles front, side white cloud-wings, blue scarf, purple cloud cape/badge/sidebag, golden feathers, brown eyes, orange beak/feet, exactly2 natural feather wings; no magic or transformation.
+Platform/cliff lighting and suspended rock layout follow M02 end candidate. First end attempt had insufficient foot clearance and was revised upward; v02 is current candidate.
+Built-in imagegen generated/edited visuals; sips normalized to720x1280. Actual prompts and original Seedance_v03.txt saved alongside.
+Static frames establish endpoints only; continuous safe-gap flight route, one takeoff and no intervening landing must be verified in future video. Video not generated.
+All prior M02/P04, M03 and M04 candidates remain unapproved; continuing to next shot is not acceptance.

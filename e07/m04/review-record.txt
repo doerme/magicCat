@@ -1,0 +1,13 @@
+E07-M04 candidate packet — 2026-11-25
+Status: awaiting acceptance. Not uploaded and not marked formally completed.
+Start candidate v02: exact byte copy of revised M03 end candidate v02 (squirrel compass stowed in vest).
+SHA256:7100ec3599998d3a0d4ac48057c5c7740dc718b93947ead73e042e0fbfbf96cc.
+Start filename: E07-M04_start_candidate_v02_reuse_720x1280.png.
+End filename: E07-M04_end_candidate_v02_720x1280.png.
+Both independent portrait PNGs, normalized to720x1280 using sips. Built-in imagegen for all visual edits; prompts saved alongside.
+Start reference hierarchy: M03 end candidate, official C01/C02 v04 and C06 v03 model sheets, S07 environment inherited from M01 accepted end v02.
+End checks: exactly3 grounded companions on entrance ledge; squirrel patagia folded, compass stored, raised arm points upward toward existing right lower midground rock; small bird raises one wing toward unlit air between natural pale current bands. Cat keeps low round broad-brim gold-edged purple sky-explorer hat, blue/gold goggles, white cloud wings, blue scarf, existing inactive staff and striped tail.
+Same twin peaks, right crescent cliff, layered floating rocks and deepest small turquoise reflection. No P06 map, extra characters, extra crystal, pickup, premature takeoff or illuminated safe bridge.
+Rejected first end attempt pointed sideways at cat; retained only in generated-image history, not final candidate.
+M03 revised end candidate v02 also remains pending, old v01 preserved. M02 and P04 remain pending; next step messages do not constitute acceptance.
+Static frames do not verify actual current direction or safe-gap timing. These and motion continuity require later video checks. Video has not been generated.

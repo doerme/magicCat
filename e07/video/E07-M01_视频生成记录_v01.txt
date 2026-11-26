@@ -1,0 +1,10 @@
+E07-M01《抵达风暴深谷》视频生成记录
+模型：如流模型体验台 Seedance 2.0
+参数：首尾帧模式；9:16；720p；5秒。
+首帧：E07-M01_start_v02_approved_720x1280.png
+尾帧：E07-M01_end_v02_approved_720x1280.png
+输入图片已验收；视频仍待生成与审核。
+已在网页提交一次，页面明确显示“停止生成”。勿重复提交同一任务。
+会话：https://aichat.infoflow.baidu.com/emira/c/chat-box-2be31b7b6fcc41839cd8210?hi_type=system
+提示词在原M01中文v03剧情基础上加强低圆顶金边宽檐帽、蓝镜片护目镜、白色云翼及单次抬手约束；不改变原表格Seedance v03。
+尚未取得MP4，不把会话链接填作MP4链接；尚未标为已通过。

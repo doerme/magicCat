@@ -1,0 +1,32 @@
+Synced on explicit user request: 同步到在线文档.
+All new candidates remain 待审核; sync is not acceptance.
+6 unique720x1280 PNGs uploaded; reused frames share original Drive files.
+Shot links updated: E07-镜头管理 O3:P6; statuses T3:T6; feedback V3:V6; date X3:X6.
+P04 single-view candidate source: 道具资产 H5; status K5; limitations L5.
+9 material records: 素材版本 rows149–157; actual generation prompts preserved in H cells.
+All links/statuses and unchanged M01 read back via connector; Seedance v03 retained.
+Browser visual layout not reverified; content and style/validation metadata checked. No video produced.
+
+p04
+Local: /Users/liangxiaoming/Documents/mc/e07/m02/P04_reference_candidate_v02_720x1280.png
+Drive: https://drive.google.com/file/d/1-G_5lRKiav_zGDTNrnxdG0_KR1u-8ZJr/view?usp=drivesdk
+
+m02_end
+Local: /Users/liangxiaoming/Documents/mc/e07/m02/E07-M02_end_candidate_v01_720x1280.png
+Drive: https://drive.google.com/file/d/1TVsCF71yDc8CF4fY2a-A4jnz4I5KOFkv/view?usp=drivesdk
+
+m03_start
+Local: /Users/liangxiaoming/Documents/mc/e07/m03/E07-M03_start_candidate_v01_720x1280.png
+Drive: https://drive.google.com/file/d/1LYLFbyZTH0SnIC9rFPYop92nXgOQGy3Y/view?usp=drivesdk
+
+m03_end
+Local: /Users/liangxiaoming/Documents/mc/e07/m03/E07-M03_end_candidate_v02_compass_stowed_720x1280.png
+Drive: https://drive.google.com/file/d/10CHWEWKHkOQcqtjf09L2xRbIH5ieeKJo/view?usp=drivesdk
+
+m04_end
+Local: /Users/liangxiaoming/Documents/mc/e07/m04/E07-M04_end_candidate_v02_720x1280.png
+Drive: https://drive.google.com/file/d/1xJ03Cq486L-fnLn59EEYShOehv7QXejF/view?usp=drivesdk
+
+m05_end
+Local: /Users/liangxiaoming/Documents/mc/e07/m05/E07-M05_end_candidate_v02_720x1280.png
+Drive: https://drive.google.com/file/d/1sGv-klYzDCTXfvA03mBMA-Y18bG6RJFW/view?usp=drivesdk
