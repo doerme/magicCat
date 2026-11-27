@@ -1,0 +1,14 @@
+{
+  "status": "待审候选，非整集完成",
+  "duration_seconds": 20.5,
+  "files": [
+    "e09/m01/E09-M01_raw_candidate_v02.mp4",
+    "e09/m02/E09-M02_raw_candidate_v01.mp4",
+    "e09/m03/E09-M03_raw_candidate_v01.mp4",
+    "e09/m04/E09-M04_raw_candidate_v01.mp4"
+  ],
+  "notes": [
+    "各镜保留完整原音并以极短尾帧补齐至5.125秒，不按5秒硬截对白。",
+    "M01绿色亮带观感及全段音色、口型、自然微风连续性仍待验收。"
+  ]
+}

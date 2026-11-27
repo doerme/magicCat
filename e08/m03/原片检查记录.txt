@@ -1,0 +1,3 @@
+2026-11-26：E08-M03原片候选v01，720×1280、24帧/秒、约5.06秒、AAC立体声音轨，完整解码通过。十点抽帧可见爷爷抬手指示核心，啾啾随后低头看双翅所捧的唯一P04。指尖投影与核心下缘轻微重叠，空羽槽和纵裂仍可辨。对白内容和口型待核验。
+原片：https://drive.google.com/file/d/11z1KHJUUgW9ufHBy-OEWqHEL7eB5jHLH/view?usp=drivesdk
+生成会话：https://aichat.infoflow.baidu.com/emira/c/chat-box-27837b304aa544da9fdf918?hi_type=system

@@ -1,0 +1,12 @@
+{
+  "current_candidate": "E09-M02_raw_candidate_v01.mp4",
+  "status": "基础检查完成，待正式验收",
+  "start_source": "E09-M01原片v02实际尾帧",
+  "next_shot_start": "../m03/E09-M03_start_candidate_reuse_M02_v01_actual_tail.png",
+  "preview": "../video/E09_前两镜审片_候选_v01.mp4",
+  "review_items": [
+    "自然微风幅度与风向",
+    "正确说话者与逐字口型",
+    "音色及两镜连续性"
+  ]
+}

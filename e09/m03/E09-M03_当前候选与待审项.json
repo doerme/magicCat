@@ -1,0 +1,13 @@
+{
+  "current_candidate": "E09-M03_raw_candidate_v01.mp4",
+  "status": "待审候选，基础检查完成",
+  "start_source": "E09-M02原片v01实际尾帧",
+  "next_shot_start": "../m04/E09-M04_start_candidate_reuse_M03_v01_actual_tail.png",
+  "preview": "../video/E09_前三镜审片_候选_v01.mp4",
+  "review_items": [
+    "推进过程的帽部细节、人物比例与建筑透视",
+    "接受失去借力的情绪是否可读",
+    "音色、说话者与逐字口型",
+    "前三镜完整连续性"
+  ]
+}

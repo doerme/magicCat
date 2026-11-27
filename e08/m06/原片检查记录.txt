@@ -1,0 +1,4 @@
+2026-11-26：原片候选 v02，720×1280、24 fps、约 5.09 秒、AAC 立体声，完整解码通过。v01 出现飞行上阶及入槽强光遮挡；v02 抽帧可见啾啾沿现有踏步连续上行、登上祭坛金边。约 3.75–4.20 秒可辨唯一 P04 从翅边贴入左侧羽形槽，右侧纵裂保留，入槽无强光遮挡。约 4.95 秒双翅空开，晶石只在槽内可见。离线识别约 0–1.28 秒一句「我要让风回来」，逐字口型待复核。
+v02 原片：https://drive.google.com/file/d/1x1UI78vEPLzV3WQcbtHvRmlVlAtEa6km/view?usp=drivesdk
+v02 生成会话：https://aichat.infoflow.baidu.com/emira/c/chat-box-9099b65c5a78424ebf47f8c?hi_type=system
+v01 初版留在本地，复核发现飞行上阶和强光遮挡。生成会话：https://aichat.infoflow.baidu.com/emira/c/chat-box-870348d9fd0b497ea29985f?hi_type=system

@@ -1,0 +1,42 @@
+{
+  "status": "待审核，非正式成片",
+  "date": "2026-11-27",
+  "duration_seconds": 30.125,
+  "shots": [
+    {
+      "shot": "E08-M01",
+      "file": "e08/m01/E08-M01_raw_candidate_v02.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M02",
+      "file": "e08/m02/E08-M02_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M03",
+      "file": "e08/m03/E08-M03_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M04",
+      "file": "e08/m04/E08-M04_raw_candidate_v02.mp4",
+      "used_seconds": 5.125
+    },
+    {
+      "shot": "E08-M05",
+      "file": "e08/m05/E08-M05_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M06",
+      "file": "e08/m06/E08-M06_raw_candidate_v02.mp4",
+      "used_seconds": 5
+    }
+  ],
+  "notes": [
+    "M04按剧情修订v03返工，保留完整原音，末端补极短静帧至5.125秒，避免按5秒硬截尾音。其余每镜取5秒。",
+    "M04离线识别与新对白一致，逐字口型、自然语速与整集听感待试听。",
+    "M01–M02山路返程交代尚未补画，不代表全部v03修改已落实到视频。"
+  ]
+}

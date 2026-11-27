@@ -1,0 +1,15 @@
+{
+  "source": "程序合成，无语音录音或文本转语音输入",
+  "sample_rate": 48000,
+  "channels": 2,
+  "duration_seconds": 5.125,
+  "seed": 904,
+  "max_sample_absolute": 2020,
+  "components": [
+    "带限噪声环境风",
+    "1秒后渐起渐退的单次微风包络",
+    "432Hz缓慢降18Hz及1.5倍频的低音量非语言共鸣"
+  ],
+  "video_source": "E09-M04_raw_candidate_v01.mp4，视频流直接复制",
+  "limitation": "不是E07原声复用，音色匹配与自然程度仍待试听"
+}

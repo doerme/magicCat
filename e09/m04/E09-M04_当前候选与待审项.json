@@ -1,0 +1,13 @@
+{
+  "current_candidate": "E09-M04_无对白声音修订_候选_v02.mp4",
+  "status": "基础检查完成，待正式验收",
+  "raw_video_preserved": "E09-M04_raw_candidate_v01.mp4",
+  "audio_source": "程序合成的无语言微风和纯音共鸣，非E07原音",
+  "next_shot_start": "../m05/E09-M05_start_candidate_reuse_M04_sound_v02_actual_tail.png",
+  "preview": "../video/E09_前四镜审片_候选_v02.mp4",
+  "review_items": [
+    "共鸣音色自然程度及与E07的熟悉感",
+    "风纹强弱、触达位置与动作时序",
+    "前四镜完整连续性和已记录的前镜待审项"
+  ]
+}

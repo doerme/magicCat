@@ -1,0 +1,47 @@
+{
+  "status": "待审核，非正式成片",
+  "date": "2026-11-27",
+  "duration_seconds": 34.125,
+  "shots": [
+    {
+      "shot": "E08-M01",
+      "file": "e08/m01/E08-M01_raw_candidate_v02.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M01B",
+      "file": "e08/m01b/E08-M01B_raw_candidate_v01.mp4",
+      "used_seconds": 4
+    },
+    {
+      "shot": "E08-M02",
+      "file": "e08/m02/E08-M02_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M03",
+      "file": "e08/m03/E08-M03_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M04",
+      "file": "e08/m04/E08-M04_raw_candidate_v02.mp4",
+      "used_seconds": 5.125
+    },
+    {
+      "shot": "E08-M05",
+      "file": "e08/m05/E08-M05_raw_candidate_v01.mp4",
+      "used_seconds": 5
+    },
+    {
+      "shot": "E08-M06",
+      "file": "e08/m06/E08-M06_raw_candidate_v02.mp4",
+      "used_seconds": 5
+    }
+  ],
+  "notes": [
+    "新增M01B四秒步行返程，无对白；M01与补镜、补镜与M02均硬切，表示行程省略，不是实时到达。",
+    "M04保留完整原音，末端补极短静帧至5.125秒，避免截尾。",
+    "新补镜不是整体风恢复；全片仍待正常试听、逐字口型、角色及切点复核。"
+  ]
+}
