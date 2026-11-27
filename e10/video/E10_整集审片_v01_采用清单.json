@@ -1,0 +1,50 @@
+{
+  "status": "六镜素材候选齐备，全部待正式验收",
+  "duration_seconds": 30.75,
+  "shots": [
+    {
+      "shot": "E10-M01",
+      "source": "e10/m01/E10-M01_raw_candidate_v01.mp4",
+      "review_start_seconds": 0.0,
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M02",
+      "source": "e10/m02/E10-M02_raw_candidate_v01.mp4",
+      "review_start_seconds": 5.125,
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M03",
+      "source": "e10/m03/E10-M03_raw_candidate_v01.mp4",
+      "review_start_seconds": 10.25,
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M04",
+      "source": "e10/m04/E10-M04_raw_candidate_v03.mp4",
+      "review_start_seconds": 15.375,
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M05",
+      "source": "e10/m05/E10-M05_raw_candidate_v01.mp4",
+      "review_start_seconds": 20.5,
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M06",
+      "source": "e10/m06/E10-M06_raw_candidate_v02.mp4",
+      "review_start_seconds": 25.625,
+      "review_duration_seconds": 5.125
+    }
+  ],
+  "processing": "各镜统一24fps、48000Hz双声道，仅尾部微量补帧补静音至5.125秒；原片与原声保留，未调整对白动作时序。",
+  "review_items": [
+    "M01-M02云团爷爷和小云仍待比例、口型与动态审核",
+    "M03-M04由猫低空托举转为落地；M04准备首帧飞鼠张臂、起跳高度与膜形仍待审",
+    "M04-M05明确剪辑到已展示P06；折图句尾待试听",
+    "M05-M06省略返程硬切森林；P06随粟粟带走，P02为猫独立魔法地图",
+    "M06已修正小风车静止，但叶片形状颜色稳定性、风车匀速、对白时序口型需完整动态验收"
+  ]
+}

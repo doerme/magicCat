@@ -1,0 +1,17 @@
+{
+  "current_candidate": "E10-M03_raw_candidate_v01.mp4",
+  "status": "已生成、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-6f6420296038492485c588d?hi_type=system",
+  "source": "M02实际末帧衍生三伙伴近景首尾帧；内置imagegen",
+  "dialogue_expected": "糯米，看我托住你！",
+  "dialogue_asr": "诺迷 看我拖住你",
+  "preview": "../video/E10_前三镜审片_候选_v01.mp4",
+  "next_shot_source": "../m04/E10-M04_start_candidate_reuse_M03_v01_actual_tail.png",
+  "review_items": [
+    "准确发音、鸟的口型与童声音色；ASR同音字不构成对白错误定论",
+    "糯米低空托举的完整动态及高度，是否存在轻跳感",
+    "风印记在托举时明显变亮，亮度与形状连续性待验收",
+    "三角色衣帽比例、风车旋转与相邻镜头切换均待完整动态审核"
+  ]
+}

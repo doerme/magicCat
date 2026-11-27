@@ -1,0 +1,18 @@
+{
+  "current_candidate": "E09-M06_raw_candidate_v03.mp4",
+  "status": "首尾帧返工完成、基础检查通过，待正式视听审核",
+  "duration_seconds": 5.088,
+  "raw_video_preserved": [
+    "E09-M06_raw_candidate_v01.mp4",
+    "E09-M06_raw_candidate_v02.mp4"
+  ],
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-0fd5bfae56d843489c3a58a?hi_type=system",
+  "preview": "../video/E09_整集串联审片_候选_v01.mp4",
+  "review_items": [
+    "风纹仍偏亮并掠过爷爷前方，动态范围是否合适",
+    "糯米称呼、引导风对白发音、口型及是否有额外人声",
+    "印记持续造型、帽冠体型和背景几何漂移",
+    "前镜及C03资产既有待审项"
+  ],
+  "next_scene": "E10-M01天空城恢复，需外景首帧而非直接复用本镜神殿末帧"
+}

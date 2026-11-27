@@ -1,0 +1,16 @@
+{
+  "S05": {
+    "file": "S05_天空之城街道_v02.png",
+    "url": "https://drive.google.com/file/d/1rYyA72WU3H5A6jLJImxytXiyQWOF83iw/view?usp=drivesdk"
+  },
+  "S08": {
+    "file": "S08_天空之城_v01.png",
+    "url": "https://drive.google.com/file/d/11Bb1860auQwLT0rWzGUb546EqQ06BkS_/view?usp=drivesdk"
+  },
+  "source_spreadsheet": "https://docs.google.com/spreadsheets/d/1FvT_KAa6vJIRCF6G5_RHkl8XWxOuHipX5zanavFahDI/edit",
+  "source_range": "场景资产!A1:J12",
+  "notes": [
+    "两张图由已连接Drive读取原始PNG，不修改源文件或分享权限",
+    "S05约束旧破损街道，S08仅参考同城外形和晴空；没有把S08完整无损画面当成剧情中建筑瞬间修复"
+  ]
+}

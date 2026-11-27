@@ -1,0 +1,19 @@
+{
+  "current_candidate": "E10-M05_raw_candidate_v01.mp4",
+  "status": "已生成、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-8f0f0973e5b241a499d88e9?hi_type=system",
+  "source": "M04实际尾帧衍生持图与挥手首尾帧；普通地图参考P06完稿候选v06；内置imagegen",
+  "dialogue_expected": "我也该回家，把地图交给爷爷啦！",
+  "dialogue_asr": "我也该回家把地图胶给爷爷了",
+  "preview": "../video/E10_前五镜审片_候选_v01.mp4",
+  "next_shot_identity_reference": "../m06/E10-M06_identity_reference_M05_v01_actual_tail.png",
+  "next_shot_transition": "省略返程硬切森林，仅猫鸟；P06随粟粟离开，本末帧只作角色身份参考",
+  "review_items": [
+    "M04空手至M05已展示地图是剪辑省略拿图过程，构图与角色比例连续性待审",
+    "实际约2.5至3秒折图，早于3.7秒目标；是否压句尾、折叠手部与纸图线路稳定性需动态试听验收",
+    "对白胶/交与句尾啦/了为ASR歧义，发音、童声、口型需正式验收",
+    "视线短暂面向镜头，伙伴交流感及挥手节奏待审",
+    "鸟印记、四叶风车动态和旧破损建筑连续性待审核"
+  ]
+}

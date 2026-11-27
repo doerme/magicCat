@@ -1,0 +1,22 @@
+{
+  "status": "候选，待正式验收",
+  "duration_seconds": 15.375,
+  "shots": [
+    {
+      "shot": "E10-M01",
+      "source": "e10/m01/E10-M01_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M02",
+      "source": "e10/m02/E10-M02_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M03",
+      "source": "e10/m03/E10-M03_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    }
+  ],
+  "processing": "各镜统一24fps/音轨参数，仅尾部微量补帧补静音；原片保留，未调整原对白时序。"
+}

@@ -1,0 +1,40 @@
+{
+  "written_cells_matched": 659,
+  "invalid_dropdown_values": [],
+  "preserved_formula_cells": [
+    [
+      853388610,
+      8,
+      5
+    ],
+    [
+      853388610,
+      8,
+      6
+    ],
+    [
+      853388610,
+      9,
+      5
+    ],
+    [
+      853388610,
+      9,
+      6
+    ],
+    [
+      853388610,
+      10,
+      5
+    ],
+    [
+      853388610,
+      10,
+      6
+    ]
+  ],
+  "E08_M01_status": "已通过",
+  "asset_versions_appended": "A241:J292",
+  "visual_review": "浏览器为Google退出登录状态，未完成页面外观检查；API值、格式、公式、数据验证回读通过",
+  "cloud_file_size_name_checks": 52
+}

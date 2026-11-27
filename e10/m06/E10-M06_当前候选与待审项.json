@@ -1,0 +1,20 @@
+{
+  "current_candidate": "E10-M06_raw_candidate_v02.mp4",
+  "status": "已定向返工、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-025dd44b762443ffbc75116?hi_type=system",
+  "source": "S01森林v02、P01小风车v02、P02魔法地图v01与M05猫鸟身份；内置imagegen生成森林首尾帧，尾帧v02修订小风车转子角度",
+  "dialogue_expected": "咦？又有新的地方亮起来了！",
+  "dialogue_asr": "一 又有新的地方亮起来了",
+  "preview": "../video/E10_整集串联审片_候选_v01.mp4",
+  "superseded_candidate": {
+    "v01": "小风车叶片在抽帧中角度几乎不变，不纳入当前采用"
+  },
+  "review_items": [
+    "v02大小风车抽帧均有角度变化；小风车叶片颜色顺序和形状略有漂移，是否匀速真实旋转需动态验收",
+    "地图折叠展开、扣带归属、青绿坐标和唯一红色火焰图标图面稳定性需动态检查",
+    "实际地图和标记约1.5至2秒已可见，猫后段开口；准确语音起点、先标记后对白及口型须完整试听验收",
+    "鸟相较上一镜比例偏大，帽型、胸前风印记及持杆手部一致性仍待审",
+    "森林位置为剪辑省略返程，P01、P02再次从随身道具出现，不声称与天空城无缝连接"
+  ]
+}

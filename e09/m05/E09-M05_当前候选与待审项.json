@@ -1,0 +1,17 @@
+{
+  "current_candidate": "E09-M05_时序与静默修订_候选_v03.mp4",
+  "status": "返工与静默修订完成，待审核",
+  "raw_video_preserved": [
+    "E09-M05_raw_candidate_v01.mp4",
+    "E09-M05_raw_candidate_v02.mp4"
+  ],
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-3864810cf4d5478382819fd?hi_type=system",
+  "preview": "../video/E09_前五镜审片_候选_v02.mp4",
+  "review_items": [
+    "对白精确时点、口型与音色，音频2.5秒处接点自然程度",
+    "印记亮度及造型与C03候选一致性，C03未正式验收",
+    "完整动态因果顺序及前镜待审项"
+  ],
+  "next_shot_start": "../m06/E09-M06_start_candidate_reuse_M05_sound_v03_actual_tail.png"
+}

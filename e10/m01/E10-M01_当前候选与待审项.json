@@ -1,0 +1,16 @@
+{
+  "current_candidate": "E10-M01_raw_candidate_v01.mp4",
+  "status": "已生成、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-6685999bcfe440898f066c9?hi_type=system",
+  "dialogue_expected": "谢谢你们！黑影的事，我会继续追查。",
+  "dialogue_asr": "謝謝你們,黑影的事,我會繼續追查。",
+  "preview": "../video/E09末镜至E10开场_衔接审片_候选_v01.mp4",
+  "next_shot_start": "../m02/E10-M02_start_candidate_reuse_M01_v01_actual_tail.png",
+  "review_items": [
+    "风车连续旋转速度及叶片几何",
+    "爷爷声线、口型和其他角色误动嘴",
+    "五角色比例和服装细节，尤其小云相对啾啾大小",
+    "全段构图/背景漂移及E09已有待审项"
+  ]
+}

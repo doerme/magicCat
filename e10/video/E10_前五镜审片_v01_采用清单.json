@@ -1,0 +1,37 @@
+{
+  "status": "候选，待正式验收",
+  "duration_seconds": 25.625,
+  "shots": [
+    {
+      "shot": "E10-M01",
+      "source": "e10/m01/E10-M01_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M02",
+      "source": "e10/m02/E10-M02_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M03",
+      "source": "e10/m03/E10-M03_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M04",
+      "source": "e10/m04/E10-M04_raw_candidate_v03.mp4",
+      "review_duration_seconds": 5.125
+    },
+    {
+      "shot": "E10-M05",
+      "source": "e10/m05/E10-M05_raw_candidate_v01.mp4",
+      "review_duration_seconds": 5.125
+    }
+  ],
+  "processing": "各镜统一24fps/音轨参数，仅尾部微量补帧补静音；原片保留，未调整对白时序。",
+  "review_items": [
+    "M04至M05明确剪辑到已展示地图，拿图过程被省略",
+    "M05折图实际约2.5至3秒，比目标早，是否压句尾须试听",
+    "全部候选及M04起跳高度/翼膜、对白口型等待正式验收"
+  ]
+}

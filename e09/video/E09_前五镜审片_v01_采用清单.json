@@ -1,0 +1,15 @@
+{
+  "status": "待审候选，M06尚未制作",
+  "duration_seconds": 25.625,
+  "files": [
+    "e09/m01/E09-M01_raw_candidate_v02.mp4",
+    "e09/m02/E09-M02_raw_candidate_v01.mp4",
+    "e09/m03/E09-M03_raw_candidate_v01.mp4",
+    "e09/m04/E09-M04_无对白声音修订_候选_v02.mp4",
+    "e09/m05/E09-M05_raw_candidate_v01.mp4"
+  ],
+  "notes": [
+    "每镜保留完整音轨，短尾帧补齐至5.125秒",
+    "M05印记动态形状、出现时点及爷爷对白口型待验收；前四镜已有待审项继续保留"
+  ]
+}

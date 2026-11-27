@@ -1,0 +1,22 @@
+{
+  "current_candidate": "E10-M04_raw_candidate_v03.mp4",
+  "status": "已返工两次、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-cbfe733520c840859d0aeea?hi_type=system",
+  "source": "基于M03实际尾帧及C06三视图修订准备首帧；尾帧为三人落稳候选v01；内置imagegen",
+  "dialogue_expected": "风稳了，我能滑翔啦！",
+  "dialogue_asr": "风稳了 我能滑翔了",
+  "preview": "../video/E10_前四镜审片_候选_v01.mp4",
+  "next_shot_source": "../m05/E10-M05_start_source_M04_v03_actual_tail.png",
+  "superseded_candidates": {
+    "v01": "新增起跳石、蝙蝠翅骨结构，不采用",
+    "v02": "新增石消失，但翼膜仍有翅骨和超手掌尖角，不采用"
+  },
+  "review_items": [
+    "起跳实际高于十厘米目标，轨迹仍有较明显跃起感；是否能读为短距滑翔需正式动态验收",
+    "翼膜已无前两版明显骨架，但外缘和腕踝连接、衣帽体型连续性仍待正式验收",
+    "M03末帧至修订首帧飞鼠已张臂，准备姿态变化与切点需审核",
+    "准确对白发音、句尾啦/了、飞鼠口型、猫鸟无误开口及音色待完整试听",
+    "猫落地前风纹消散、鸟印记亮度、风车旋转与建筑连续性待审核"
+  ]
+}

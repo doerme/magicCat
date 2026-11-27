@@ -1,0 +1,16 @@
+{
+  "current_candidate": "E10-M02_raw_candidate_v01.mp4",
+  "status": "已生成、基础检查完成，待正式验收",
+  "duration_seconds": 5.088,
+  "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-d828c342408943b193868f9?hi_type=system",
+  "source": "M01 v01实际末帧",
+  "dialogue_expected": "风之守护者，带着风继续冒险吧！",
+  "dialogue_asr": "封枝守护者,待着封继续冒险吧。",
+  "preview": "../video/E10_前两镜审片_候选_v01.mp4",
+  "next_shot_source": "../m03/E10-M03_start_source_M02_v01_actual_tail.png",
+  "review_items": [
+    "对白同音字发音、年长声线与准确口型",
+    "啾啾转头点头和伙伴对视的完整动态",
+    "风车叶片连续旋转、衣帽比例细节、已有M01待审项"
+  ]
+}
