@@ -1,0 +1,104 @@
+{
+  "version": "v07",
+  "review": "待正式审核",
+  "output": "e08/video/E08_三人齐声报信_动态审片_v07.mp4",
+  "technical": {
+    "video": "720x1280 24fps",
+    "audio": "48kHz stereo",
+    "frames": 931,
+    "seconds": 38.791667,
+    "decode": "通过"
+  },
+  "shots": [
+    {
+      "shot": "E08-M01",
+      "source": "e08/v05/E08-M01B_raw_candidate_v05.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 123,
+      "timeline_start_frame": 0,
+      "timeline_end_frame_exclusive": 123,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M02",
+      "source": "e08/v05/E08-M02_raw_candidate_v05.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 140,
+      "timeline_start_frame": 123,
+      "timeline_end_frame_exclusive": 263,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M03",
+      "source": "e08/v05/E08-M03_raw_candidate_v05.mp4",
+      "source_start_frame": 18,
+      "source_end_frame_exclusive": 123,
+      "timeline_start_frame": 263,
+      "timeline_end_frame_exclusive": 368,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M04A",
+      "source": "e08/v06/E08-M04A_raw_candidate_v06.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 88,
+      "timeline_start_frame": 368,
+      "timeline_end_frame_exclusive": 456,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M04B",
+      "source": "e08/v05/E08-M04B_raw_candidate_v05.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 88,
+      "timeline_start_frame": 452,
+      "timeline_end_frame_exclusive": 540,
+      "dissolve_in_frames": 4
+    },
+    {
+      "shot": "E08-M04C",
+      "source": "e08/v04/E08-M04_raw_candidate_v04.mp4",
+      "source_start_frame": 62,
+      "source_end_frame_exclusive": 122,
+      "timeline_start_frame": 536,
+      "timeline_end_frame_exclusive": 596,
+      "dissolve_in_frames": 4
+    },
+    {
+      "shot": "E08-M05",
+      "source": "e08/v06/E08-M05_raw_candidate_v06.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 123,
+      "timeline_start_frame": 596,
+      "timeline_end_frame_exclusive": 719,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M06A",
+      "source": "e08/v06/E08-M06_raw_candidate_v06.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 68,
+      "timeline_start_frame": 719,
+      "timeline_end_frame_exclusive": 787,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M06B",
+      "source": "e08/v07/E08-M06C_raw_candidate_v07.mp4",
+      "source_start_frame": 0,
+      "source_end_frame_exclusive": 123,
+      "timeline_start_frame": 787,
+      "timeline_end_frame_exclusive": 910,
+      "dissolve_in_frames": 0
+    },
+    {
+      "shot": "E08-M06D",
+      "source": "e08/v06/E08-M06_raw_candidate_v06.mp4",
+      "source_start_frame": 150,
+      "source_end_frame_exclusive": 171,
+      "timeline_start_frame": 910,
+      "timeline_end_frame_exclusive": 931,
+      "dissolve_in_frames": 0
+    }
+  ]
+}

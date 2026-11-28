@@ -1,0 +1,37 @@
+[
+  {
+    "shot": "E08-M04A",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-6401aff0a603477eb320eea?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 4,
+    "refs": [
+      "e08/v05/E08-M04A_瀑布石拱参考_v05_720x1280.png"
+    ],
+    "raw": "e08/v06/E08-M04A_raw_candidate_v06.mp4",
+    "note": "同向连续悬空滑飞，收腿，禁止步态；晶石风带持续承托。"
+  },
+  {
+    "shot": "E08-M05",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-dc3d190a674c4fac98d2ce7?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08/v04/E08-M05_神殿外景参考_v04_720x1280.png",
+      "e08/v05/E08-M05_v04实际尾帧_参考.png"
+    ],
+    "raw": "e08/v06/E08-M05_raw_candidate_v06.mp4",
+    "note": "门外减速落地，全程无对白。"
+  },
+  {
+    "shot": "E08-M06",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-111f910ff85e44a28c0539e?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 7,
+    "refs": [
+      "e08/m02/E08-M02_start_candidate_v02_720x1280.png",
+      "e08/m02/E08-M02_end_candidate_v02_720x1280.png"
+    ],
+    "raw": "e08/v06/E08-M06_raw_candidate_v06.mp4",
+    "note": "神殿内先建立环境，再由糯米说「爷爷，我们把晶石带回来了！」，空槽留给 E09。"
+  }
+]

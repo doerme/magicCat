@@ -1,0 +1,154 @@
+[
+  {
+    "id": "E08-M01",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/t-mwycetunavtu002j?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M01_raw_candidate_v04.mp4",
+    "files": [
+      "e08_e10/assets/E08-M01_前镜实际尾帧_v04_720x1280.png"
+    ],
+    "download": "02179583536171100000000000000000000ffffac1744204e88f1.mp4"
+  },
+  {
+    "id": "E08-M02",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-87731ccc469948d18072323?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M02_raw_candidate_v04.mp4",
+    "files": [
+      "e08/m01/E08-M01_end_candidate_v02_720x1280.png"
+    ],
+    "download": "02179583553240500000000000000000000ffffac191075d831c4.mp4"
+  },
+  {
+    "id": "E08-M03",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-a5595f985c864ce3a542945?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M03_raw_candidate_v04.mp4",
+    "files": [
+      "e08/m01/E08-M01_end_candidate_v02_720x1280.png",
+      "e08_e10/assets/E08-M03_三人飞行关键帧_候选_v04_720x1280.png"
+    ],
+    "download": "02179583543669900000000000000000000ffffac183ab4f100e9.mp4"
+  },
+  {
+    "id": "E08-M04",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-2e33ef7db6864685952b59a?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M04_raw_candidate_v04.mp4",
+    "files": [
+      "e08_e10/assets/E08-M03_三人飞行关键帧_候选_v04_720x1280.png",
+      "e08/v04/E08-M05_神殿外景参考_v04_720x1280.png"
+    ],
+    "download": "02179583571624000000000000000000000ffffac181ce8844904.mp4"
+  },
+  {
+    "id": "E08-M05",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-7b5cafc0816e401b8f9f225?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M05_raw_candidate_v04.mp4",
+    "files": [
+      "e08/v04/E08-M05_神殿外景参考_v04_720x1280.png"
+    ],
+    "download": "02179583579795900000000000000000000ffffac14499d2b3ec3.mp4"
+  },
+  {
+    "id": "E08-M06",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-dd3ffbf5dc18423baea3095?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e08/v04/E08-M06_raw_candidate_v04.mp4",
+    "files": [
+      "e08/m02/E08-M02_start_candidate_v02_720x1280.png",
+      "e08/m02/E08-M02_end_candidate_v02_720x1280.png"
+    ],
+    "download": "02179583554723100000000000000000000ffffac152a59e880c6.mp4"
+  },
+  {
+    "id": "E09-M01",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-41c8756014b647948533fbf?hi_type=system",
+    "seconds": 7,
+    "status": "已下载候选，待审",
+    "output": "e09/v04/E09-M01_raw_candidate_v04.mp4",
+    "files": [
+      "e08/m02/E08-M02_end_candidate_v02_720x1280.png",
+      "e08/m05/E08-M05_start_candidate_v01_720x1280.png"
+    ],
+    "download": "02179583569297500000000000000000000ffffac190d0eed452b.mp4"
+  },
+  {
+    "id": "E09-M04",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-6d9e478824b14354af05bdf?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e09/v04/E09-M04_raw_candidate_v04.mp4",
+    "files": [
+      "e08/m06/E08-M06_end_candidate_v01_720x1280.png",
+      "e09/m02/E09-M02_end_candidate_v01_720x1280.png"
+    ],
+    "download": "02179583547679000000000000000000000ffffac175dd0199a03.mp4"
+  },
+  {
+    "id": "E09-M05",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-e4845da6b26841e4ba2d5cd?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e09/v04/E09-M05_raw_candidate_v04.mp4",
+    "files": [
+      "e09/m02/E09-M02_v01_actual_tail.png",
+      "e09/m05/E09-M05_start_candidate_reuse_M04_sound_v02_actual_tail.png"
+    ],
+    "download": "02179583548535600000000000000000000ffffac1910eae254cc.mp4"
+  },
+  {
+    "id": "E09-M06",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-3f71abe3af8347029fd29b2?hi_type=system",
+    "seconds": 5,
+    "status": "已归档，定机位返工替换",
+    "output": "e09/v04/E09-M06_raw_candidate_v04.mp4",
+    "files": [
+      "e09/m05/E09-M05_start_candidate_reuse_M04_sound_v02_actual_tail.png",
+      "e09/m06/E09-M06_end_candidate_v03_720x1280.png"
+    ],
+    "download": "02179583576077100000000000000000000ffffac18033df75cd7.mp4"
+  },
+  {
+    "id": "E10-M03",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-cc19740c6ffb4a4abd4d75f?hi_type=system",
+    "seconds": 5,
+    "status": "已下载候选，待审",
+    "output": "e10/v04/E10-M03_raw_candidate_v04.mp4",
+    "files": [
+      "e10/m03/E10-M03_start_candidate_v01_720x1280.png",
+      "e10/m04/E10-M04_start_candidate_v03_720x1280.png"
+    ],
+    "download": "02179583553914700000000000000000000ffffac152a002b6f09.mp4"
+  },
+  {
+    "id": "E09-M06B",
+    "model": "seedance-2.0",
+    "url": "https://aichat.infoflow.baidu.com/emira/c/chat-box-825041be9d4f446aaa8c2bf?hi_type=system",
+    "seconds": 5,
+    "status": "已采用返工候选，待审",
+    "output": "e09/v04/E09-M06_raw_candidate_v04b.mp4",
+    "files": [
+      "e09/m02/E09-M02_v01_actual_tail.png"
+    ],
+    "download": "02179583610403100000000000000000000ffffac1814118edaf2.mp4"
+  }
+]

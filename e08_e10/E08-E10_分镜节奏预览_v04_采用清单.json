@@ -1,0 +1,280 @@
+{
+  "version": "v04",
+  "date": "2026-11-28",
+  "type": "分镜节奏预览，11 镜待生成",
+  "episodes": {
+    "E08": {
+      "output": "e08/video/E08_分镜节奏预览_v04_含占位.mp4",
+      "planned_duration_seconds": 30.0,
+      "media": {
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "30.021333"
+        }
+      },
+      "shots": [
+        {
+          "shot": "E08-M01",
+          "title": "晶石起风",
+          "type": "静态分镜占位，待生成",
+          "source": "e08_e10/assets/E08-M01_前镜实际尾帧_v04_720x1280.png",
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 0.0,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E08-M02",
+          "title": "接上伙伴",
+          "type": "静态分镜占位，待生成",
+          "source": "e08/m01/E08-M01_end_candidate_v02_720x1280.png",
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 5.0,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E08-M03",
+          "title": "三人起飞",
+          "type": "静态分镜占位，待生成",
+          "source": "e08_e10/assets/E08-M03_三人飞行关键帧_候选_v04_720x1280.png",
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 10.0,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E08-M04",
+          "title": "快速返程",
+          "type": "静态分镜占位，待生成",
+          "source": null,
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 15.0,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E08-M05",
+          "title": "抵达神殿",
+          "type": "静态分镜占位，待生成",
+          "source": null,
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 20.0,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E08-M06",
+          "title": "空着的槽",
+          "type": "静态分镜占位，待生成",
+          "source": "e08/m02/E08-M02_start_candidate_v02_720x1280.png",
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 25.0,
+          "duration_seconds": 5.0
+        }
+      ]
+    },
+    "E09": {
+      "output": "e09/video/E09_分镜节奏预览_v04_含占位.mp4",
+      "planned_duration_seconds": 32.25,
+      "media": {
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "32.271333"
+        }
+      },
+      "shots": [
+        {
+          "shot": "E09-M01",
+          "title": "借来的风",
+          "type": "静态分镜占位，待生成",
+          "source": "e08/m02/E08-M02_end_candidate_v02_720x1280.png",
+          "reference_frame_seconds": null,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 0.0,
+          "duration_seconds": 7
+        },
+        {
+          "shot": "E09-M02",
+          "title": "伙伴的支持",
+          "type": "旧原片复用候选",
+          "source": "e08/m05/E08-M05_raw_candidate_v01.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 7.0,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E09-M03",
+          "title": "主动归还",
+          "type": "旧原片复用候选",
+          "source": "e08/m06/E08-M06_raw_candidate_v02.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 12.125,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E09-M04",
+          "title": "风回来了",
+          "type": "静态分镜占位，待生成",
+          "source": "e09/m01/E09-M01_raw_candidate_v02.mp4",
+          "reference_frame_seconds": 1.0,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 17.25,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E09-M05",
+          "title": "熟悉的共鸣",
+          "type": "静态分镜占位，待生成",
+          "source": "e09/m03/E09-M03_raw_candidate_v01.mp4",
+          "reference_frame_seconds": 3.8,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 22.25,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E09-M06",
+          "title": "风的回应",
+          "type": "静态分镜占位，待生成",
+          "source": "e09/m06/E09-M06_raw_candidate_v03.mp4",
+          "reference_frame_seconds": 3.8,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 27.25,
+          "duration_seconds": 5.0
+        }
+      ]
+    },
+    "E10": {
+      "output": "e10/video/E10_分镜节奏预览_v04_含占位.mp4",
+      "planned_duration_seconds": 30.625,
+      "media": {
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 720,
+            "height": 1280,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "30.646333"
+        }
+      },
+      "shots": [
+        {
+          "shot": "E10-M01",
+          "title": "天空城恢复",
+          "type": "旧原片复用候选",
+          "source": "e10/m01/E10-M01_raw_candidate_v01.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 0.0,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E10-M02",
+          "title": "继续同行的守护者",
+          "type": "旧原片复用候选",
+          "source": "e10/m02/E10-M02_raw_candidate_v01.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 5.125,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E10-M03",
+          "title": "自己的风",
+          "type": "静态分镜占位，待生成",
+          "source": "e10/m03/E10-M03_raw_candidate_v01.mp4",
+          "reference_frame_seconds": 4.5,
+          "source_in_seconds": null,
+          "source_out_seconds": null,
+          "timeline_in_seconds": 10.25,
+          "duration_seconds": 5.0
+        },
+        {
+          "shot": "E10-M04",
+          "title": "平稳的风",
+          "type": "旧原片复用候选",
+          "source": "e10/m04/E10-M04_raw_candidate_v03.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 15.25,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E10-M05",
+          "title": "地图与告别",
+          "type": "旧原片复用候选",
+          "source": "e10/m05/E10-M05_raw_candidate_v01.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 20.375,
+          "duration_seconds": 5.125
+        },
+        {
+          "shot": "E10-M06",
+          "title": "森林里的新坐标",
+          "type": "旧原片复用候选",
+          "source": "e10/m06/E10-M06_raw_candidate_v02.mp4",
+          "reference_frame_seconds": null,
+          "source_in_seconds": 0.0,
+          "source_out_seconds": 5.088,
+          "timeline_in_seconds": 25.5,
+          "duration_seconds": 5.125
+        }
+      ]
+    }
+  }
+}

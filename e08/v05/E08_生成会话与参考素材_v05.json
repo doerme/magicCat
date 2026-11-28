@@ -1,0 +1,92 @@
+[
+  {
+    "shot": "E08-M01",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-7fc7e06b490343c584bd2fd?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08_e10/assets/E08-M01_前镜实际尾帧_v04_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M01_raw_candidate_v05.mp4",
+    "note": "晶石把啾啾托起，贴地风圈与落叶。"
+  },
+  {
+    "shot": "E08-M02",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-a911aca8339e42a59302160?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 7,
+    "refs": [
+      "e08/m01/E08-M01_end_candidate_v02_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M02_raw_candidate_v05.mp4",
+    "note": "粟粟提问，啾啾回答；对白结束后风带汇合。"
+  },
+  {
+    "shot": "E08-M03",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-980078770d4b4892bcaa57f?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08/m01/E08-M01_end_candidate_v02_720x1280.png",
+      "e08_e10/assets/E08-M03_三人飞行关键帧_候选_v04_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M03_raw_candidate_v05.mp4",
+    "note": "晶石脉冲、双层青绿色风带托起糯米与粟粟。"
+  },
+  {
+    "shot": "E08-M04A",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-d80029a529c544e8a9cef5f?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 4,
+    "refs": [
+      "e08/v05/E08-M04A_瀑布石拱参考_v05_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M04A_raw_candidate_v05.mp4",
+    "note": "穿越天然石拱，青绿尾迹卷动瀑布水珠与水雾。"
+  },
+  {
+    "shot": "E08-M04B",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-84965b569e49433cba26062?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 4,
+    "refs": [
+      "e08/v05/E08-M04B_日照云海参考_v05_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M04B_raw_candidate_v05.mp4",
+    "note": "掠过日照云海并分开白云，保持飞行方向。"
+  },
+  {
+    "shot": "E08-M05",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-688a51ffafc34ef09caa6b4?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08/v04/E08-M05_神殿外景参考_v04_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M05_raw_candidate_v05.mp4",
+    "note": "落地报信初版候选，生成额外紫色光门，进入返工。"
+  },
+  {
+    "shot": "E08-M05B",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-57f382db22ab40c5ab0244b?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08/v04/E08-M05_神殿外景参考_v04_720x1280.png",
+      "e08/v05/E08-M05_v04实际尾帧_参考.png"
+    ],
+    "raw": "e08/v05/E08-M05B_raw_candidate_v05.mp4",
+    "note": "首尾帧锁定单一原有拱门，落地报信。"
+  },
+  {
+    "shot": "E08-M01B",
+    "session": "https://aichat.infoflow.baidu.com/emira/c/chat-box-08d91bcb96b34e71a66c565?hi_type=system",
+    "model": "seedance-2.0",
+    "seconds": 5,
+    "refs": [
+      "e08_e10/assets/E08-M01_前镜实际尾帧_v04_720x1280.png"
+    ],
+    "raw": "e08/v05/E08-M01B_raw_candidate_v05.mp4",
+    "note": "缩短开场台词为「晶石把我托起来了！」，避免疑似连读重复。"
+  }
+]
